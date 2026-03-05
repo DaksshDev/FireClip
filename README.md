@@ -1,6 +1,7 @@
 # FireClip
 
 A simple, open-source clipboard manager designed to help you keep track of your clipboard history.
+[NOTE: Linux is no longer supported!]
 
 ## Features
 - Capture clipboard text automatically
